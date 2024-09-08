@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+langchain_google_genai
+faiss-cpu
+pandas
+joblib
+fastapi
+scikit-learn==1.2.2
+langchain_community
+uvicorn

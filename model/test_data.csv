@@ -1,0 +1,3 @@
+,Age,Gender,heart Attack,Heart Valve,Heart Defect at birth,Cardiomyopathy,Severe cystic fibrosis,copd(lung_Disease),Repeated urinary infections,Diabities,kidney stones,Urinary Tract Infection,Transplant
+0,5,Female,0,0,0,1,0,0,0,1,1,1,Kidney
+1,42,Male,1,1,1,0,0,0,1,0,1,1,heart-kidney
